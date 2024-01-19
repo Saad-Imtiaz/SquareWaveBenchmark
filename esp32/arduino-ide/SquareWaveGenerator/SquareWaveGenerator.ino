@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-#define PINOUT 7
+#define PINOUT 11
 
 unsigned long freq = 20000000; // 20 MHz
 unsigned long cycle_time = 1000000 / freq;
